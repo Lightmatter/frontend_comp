@@ -5,7 +5,7 @@ import "htmx.org";
 import Alpine from "alpinejs";
 import Cookies from "js-cookie";
 import "../../frontend_comp/templates/components/modal/modal";
-import "../../frontend_comp/templates/components/flyout/flyout";
+//import "../../frontend_comp/templates/components/flyout/flyout";
 import "../../frontend_comp/templates/components/select/select";
 import "../../frontend_comp/templates/components/links/links";
 

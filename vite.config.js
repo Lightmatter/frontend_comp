@@ -23,6 +23,8 @@ export default defineConfig({
         main: resolve(__dirname, './frontend_comp/templates/components/main.ts'),
         base: resolve(__dirname, './static_source/css/base.js'),
         raw_tailwind: resolve(__dirname, './static_source/css/tailwind.js'),
+        // Components go here
+        flyout: resolve(__dirname, './frontend_comp/templates/components/flyout/flyout.ts')
       }
     },
     outDir:  '../frontend_comp/static', // puts the manifest.json in PROJECT_ROOT/static/
